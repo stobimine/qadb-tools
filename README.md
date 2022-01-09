@@ -6,5 +6,6 @@
 
 https://www.researchgate.net/publication/221480337_Question_and_answer_database_optimization_using_speech_recognition_results/stats
 
-* You would need a version of Chasen to run this software or remove chasen dependency from the parse source files
+* Needs a version of Chasen or remove Chasen dependency from the parse source files
+* This code assumes to have EUC-JP coded input (needs modification to be UTF-8 safe)
 
